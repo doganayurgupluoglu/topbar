@@ -4,8 +4,6 @@ Kullanışlı bir navigation bar tasarımı. Arama çubuğu, giriş ve kayıt ol
 
 ## Özellikler
 
-- Responsive tasarım
-- Entegre arama çubuğu
 - Hover efektleri
 - Giriş ve kayıt olma butonları
 - Font Awesome ikonları
