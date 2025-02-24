@@ -1,6 +1,6 @@
 # Topbar with Search
 
-Kullanışlı bir navigation bar tasarımı. Arama çubuğu, giriş ve kayıt olma butonları içerir.
+Deneme amaçlı yaptığım ilkel bir navigation bar tasarımı. Arama çubuğu, giriş ve kayıt olma butonları içerir.
 
 ## Özellikler
 
